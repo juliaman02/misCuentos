@@ -1,0 +1,23 @@
+/* body {
+  height: 400px;
+} */
+* {
+  margin: 0;
+  padding: 0;
+} /*reseteo*/
+
+div {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  /* margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 20px; */
+  margin: 50px 30px 10px 20px;
+  padding: 10px;
+  /* border-color: blueviolet;
+  border-width: 5px;
+  border-style: double; */
+  border: blueviolet 5px double;
+}
